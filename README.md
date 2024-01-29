@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jvma0111&label=Profile%20views&color=0e75b6&style=flat" alt="jvma0111" /> </p>
 
-- 🌱 Currently learning: **Computer Science fundamentals in the cs50 course, concurrently with data science concepts at Alura.**
+- 🌱 Currently learning: **Computer Science fundamentals in the cs50 course, concurrently with data science concepts at Alura, and Azure AI bootcamp from DIO**
 
 - 🤝 Seeking: **Internship position in data or BI, and real projects to collaborate on.**
 
